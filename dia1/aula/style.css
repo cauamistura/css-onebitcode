@@ -1,0 +1,21 @@
+h1 {
+    color: #9932CC;
+}
+li{
+    color: #008000;
+}
+body{
+    background-image: url('./images/img.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    background-color: #FFFF;
+    border-radius: 5px;
+    align-items: center;
+    width: 45rem;
+    text-align: left;
+}
+.color-amarelo{
+    color: #FFFF00;
+}
