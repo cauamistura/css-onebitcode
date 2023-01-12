@@ -1,0 +1,18 @@
+h1{
+    font-family: 'Montserrat', arial;
+}
+.post-container{
+    background-color: #fffafa;
+    width: 60rem;
+    margin: 0 auto 1rem auto;
+}
+.post{
+    font-family: 'Open Sans', Arial;
+    margin: 3rem auto 1rem auto;
+    width: 50rem;
+}
+.date{
+    color: #008080;
+    font-family: 'Roboto', arial;
+}
+
